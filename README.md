@@ -17,4 +17,6 @@ A responsive web application for authors and publishers to correct spelling erro
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the 
+CC0 1.0 Universal
+ see the [LICENSE](LICENSE) file for details.
